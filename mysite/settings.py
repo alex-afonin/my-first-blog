@@ -25,7 +25,7 @@ SECRET_KEY = 'vm*ofkry(ux^rk6=8u*heey*4(jp909v8y8+j66ljf)1j(02xf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bill7.pythonanywhere.com']
 
 
 # Application definition
@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC+3'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
